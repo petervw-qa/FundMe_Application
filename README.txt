@@ -1,10 +1,7 @@
-// REMIX EXAMPLE PROJECT
+// Crowdfunding Smart Contract Application using Remix IDE
 
-// This project demonstrates:
-// -	Importing foreign contracts into new smart contracts.
-// -	Contract Inheritance.
-// -	Deploying new contracts from our existing contract.
-// -	Interacting with different contracts from outside our contract. 
+// This project is a relatively simple yet effective crowdsourcing application where users can fund and an admin can withdraw the funds
+
 
 
 // It contains 3 directories:
